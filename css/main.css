@@ -79,7 +79,7 @@ header {width:1034px;height:131px;margin:0 auto;}
 
 
 
- .contact{width:1034px;height:1081px;background:url(../img/axle.png) no-repeat;margin:0 auto;position:relative}
+ .contact{width:1034px;height:1081px;background:url(../img/axle.png) no-repeat;margin:0 auto;position:relative;overflow:hidden}
  .contact .inner{position:absolute;top:20px;left:20px;bottom:20px;right:20px;background:#ececec}
  .inner .inner_left{float:left;}
  .inner_left .wrap{width:600px;padding:26px 0 0 18px;}
